@@ -1,0 +1,1 @@
+A project I completed to demonstrate data wrangling skills for a data analyst training program at Chevron. I opted to compare frequency of Japanese lemmas in story summaries on the website Shousetsuka ni Narou to a dataset giving frequencies on the Internet at large. A bit messy, with a good amount of the project instructions still visible.
